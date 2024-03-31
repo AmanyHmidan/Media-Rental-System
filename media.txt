@@ -1,0 +1,5 @@
+Movie,AB001,Matilda,5,DR
+Album,AB022,Sour,10,,driver license
+Game,BC004,PUBG,4,0.5
+Movie,CD005,Orphan,6,HR
+Game,AD006,Fortnite,8,0.8
